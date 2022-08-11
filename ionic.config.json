@@ -1,0 +1,10 @@
+{
+  "name": "blood-bank",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
